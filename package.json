@@ -11,7 +11,7 @@
     "preview": "vite preview --port 8080",
     "homepage": "https://devacarus.github.io/portfolio-complete",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
