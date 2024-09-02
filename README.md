@@ -15,12 +15,12 @@ Welcome to Complete Portfolio! This project provides a customizable template for
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/Pfrommer1982/Complete_Portfolio 
+   git clone https://github.com/devacarus/portfolio-complete 
 
 2. Navigate to the project directory:
 
    ```shell
-   cd Complete_Portfolio
+   cd portfolio-complete
 
 3. Install dependencies:
 
