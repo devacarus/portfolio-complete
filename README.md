@@ -53,13 +53,13 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 ## License
 This project is licensed under the MIT License.
 
-
+<!-- 
 ## Examples:
 ### Photographer Portfolio Example
 ![Photographer Example](https://github.com/Pfrommer1982/Complete_Portfolio/assets/90003610/3d21a27c-472d-4b3a-9a48-1a748b209c26)
 
 ### Food / Health Blogger Example
-![Food Blogger Example](https://github.com/Pfrommer1982/Complete_Portfolio/assets/90003610/c732e0a2-19f9-4400-adf9-bfe588d6a2fe)
+![Food Blogger Example](https://github.com/Pfrommer1982/Complete_Portfolio/assets/90003610/c732e0a2-19f9-4400-adf9-bfe588d6a2fe) -->
 
 
 
